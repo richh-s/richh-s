@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Rahel👋
+### A passionate web developer
 <!--
 **richh-s/richh-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
