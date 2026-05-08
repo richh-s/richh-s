@@ -1,6 +1,25 @@
-# Hi, I'm Rahel 👋
+# Hi, I'm Rahel Samson 👋
 ---
 📍 **Ethiopia, Addis Ababa** | 🤖 **AI Systems Engineer | Agentic AI | Event-Driven Architecture | Full-Stack Development**
+
+---
+
+Full-Stack and AI Systems Engineer focused on building scalable software systems, agentic AI workflows, and production-grade backend infrastructure. Currently specializing in AI Systems and Forward Deployed Engineering through the **TRP1 engineering program**.
+
+My engineering background spans frontend and backend development — React, Next.js, FastAPI, PostgreSQL, MongoDB — with deep focus on:
+
+- **Agentic AI** — multi-agent orchestration, persistent memory, context engineering
+- **Event-Driven Systems** — Event Sourcing, CQRS, distributed architectures
+- **AI Infrastructure** — evaluation pipelines, observability, benchmark-driven development
+- **Data Engineering** — retrieval workflows, data contract enforcement, governance
+
+Earlier AI and engineering foundations built through **10 Academy**, covering machine learning workflows, data systems, analytics, and collaborative software development.
+
+---
+
+🔭 **Currently working on:** Agentic AI systems · Event-Driven architectures · AI evaluation & observability · Production AI infrastructure
+
+🤝 **Open to:** Collaborations on AI systems, backend infrastructure, and forward-deployed engineering projects
 
 ---
 
@@ -18,9 +37,9 @@ Python, JavaScript, TypeScript
 ![Programming Languages](https://skillicons.dev/icons?i=python,js,ts)
 
 ##### AI & Backend
-FastAPI, PostgreSQL, MongoDB, Docker, LangChain, LangGraph, OpenAI, HuggingFace, Claude
+FastAPI, PostgreSQL, MongoDB, Docker, Jupyter, LangChain, LangGraph, OpenAI, HuggingFace, Claude
 
-![AI & Backend Stack](https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker)
+![AI & Backend Stack](https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker,jupyter)
 <p align="left">
   <img src="https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="48" />
   <img src="https://img.shields.io/badge/-LangGraph-000?style=for-the-badge&logo=langchain&logoColor=26a269" height="48" />
@@ -28,6 +47,14 @@ FastAPI, PostgreSQL, MongoDB, Docker, LangChain, LangGraph, OpenAI, HuggingFace,
   <img src="https://img.shields.io/badge/-HuggingFace-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" />
   <img src="https://img.shields.io/badge/-Claude-000?style=for-the-badge&logo=anthropic&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/-n8n-000?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" />
+</p>
+
+##### Testing
+pytest, Playwright
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-pytest-000?style=for-the-badge&logo=pytest&logoColor=0A9EDC" height="48" />
+  <img src="https://img.shields.io/badge/-Playwright-000?style=for-the-badge&logo=playwright&logoColor=2EAD33" height="48" />
 </p>
 
 ##### Frontend & Web
