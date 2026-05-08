@@ -18,19 +18,27 @@ Python, JavaScript, TypeScript
 ![Programming Languages](https://skillicons.dev/icons?i=python,js,ts)
 
 ##### AI & Backend
-FastAPI, PostgreSQL, Docker, LangGraph, Claude
+FastAPI, PostgreSQL, MongoDB, Docker, LangChain, LangGraph, OpenAI, HuggingFace, Claude
 
-![AI & Backend Stack](https://skillicons.dev/icons?i=fastapi,postgres,docker,pytorch)
+![AI & Backend Stack](https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker)
+<p align="left">
+  <img src="https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="48" />
+  <img src="https://img.shields.io/badge/-LangGraph-000?style=for-the-badge&logo=langchain&logoColor=26a269" height="48" />
+  <img src="https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-HuggingFace-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" />
+  <img src="https://img.shields.io/badge/-Claude-000?style=for-the-badge&logo=anthropic&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/-n8n-000?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" />
+</p>
 
 ##### Frontend & Web
-HTML5, CSS3, React
+HTML5, CSS3, React, Next.js, Tailwind
 
-![Frontend Stack](https://skillicons.dev/icons?i=html,css,react)
+![Frontend Stack](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)
 
 ##### DevOps & Tools
-Linux, Git, GitHub Actions
+AWS, Nginx, Linux, Git, GitHub Actions
 
-![DevOps Stack](https://skillicons.dev/icons?i=linux,git,github)
+![DevOps Stack](https://skillicons.dev/icons?i=aws,nginx,linux,git,github)
 
 ### My Projects
 ---
