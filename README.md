@@ -6,7 +6,7 @@
 
 Full-Stack and AI Systems Engineer focused on building scalable software systems, agentic AI workflows, and production-grade backend infrastructure. Currently specializing in AI Systems and Forward Deployed Engineering through the **TRP1 engineering program**.
 
-My engineering background spans frontend and backend development — React, Next.js, FastAPI, PostgreSQL, MongoDB — with deep focus on:
+My engineering background spans frontend and backend development  React, Next.js, FastAPI, PostgreSQL, MongoDB  with deep focus on:
 
 - **Agentic AI** — multi-agent orchestration, persistent memory, context engineering
 - **Event-Driven Systems** — Event Sourcing, CQRS, distributed architectures
